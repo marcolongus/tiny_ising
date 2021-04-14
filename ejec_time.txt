@@ -1,0 +1,12 @@
+#gcc -std=c11 -Wall -Wextra
+# L                  : 384
+# Minimum Temperature: 1.500000
+# Maximum Temperature: 3.000000
+# Temperature Step   : 0.010000000000
+# Equilibration Time : 5
+# Measurement Time   : 25
+# Data Acquiring Step: 5
+# Number of Points   : 151
+# Total Simulation Time (sec): 15.982414
+# Total Simulation Time (sec): 15.827351
+# Total Simulation Time (sec): 15.804228
